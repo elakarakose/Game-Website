@@ -1,6 +1,8 @@
 # Game-Website
 Oyun Web Sitesi
-Bu projemde oyun severler için temiz arayüze sahip ve oldukça kullanışlı küçük bir oyun web sitesi tasarladım. İnceledikten sonra beğendiyseniz bir yıldız vermeyi unutmayın. 
+Bu projemde oyun severler için temiz arayüze sahip ve oldukça kullanışlı küçük bir oyun web sitesi tasarladım. İnceledikten sonra beğendiyseniz bir yıldız vermeyi unutmayın.
+
+Dil Seçeneği Ekleme JS.docx - Buradan proje anlatımını daha detaylı okuyabilirsiniz.
 
 Proje Özellikleri
 - Modern ve sade kullanıcı arayüzü
